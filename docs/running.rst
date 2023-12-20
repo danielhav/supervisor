@@ -318,6 +318,10 @@ restart all
    Restart all processes
    Note: restart does not reread config files. For that, see reread and update.
 
+shutdown
+
+   Stops all running processes and then shuts down supervisord.
+
 signal
 
    No help on signal
